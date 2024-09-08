@@ -1,4 +1,4 @@
-# cs283-todotemplate
+# cs283-fa23-todo
 
 This is an example from CS 283 from the Fall 2023 semester to create a "to do" app in React.
 
